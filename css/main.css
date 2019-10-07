@@ -23,16 +23,18 @@ nav a {
   text-decoration: none;
   padding: .6em .5em .75em;
   margin: .3em;
-  margin-left: auto;
-  margin-right: auto;
+  border-radius: .3em;
   color: #fff;
-  font-style: normal;
   font: sans-serif;
+  padding: none;
+  text-align: center;
 }
 
 nav ul {
   list-style-type: none;
+  padding: none;
   display: flex;
+  text-align: center;
 }
 
 h1 {
