@@ -17,7 +17,7 @@ html {
   }
 }
 
-ul li {
+.nav a {
   list-style-type: none;
   display: inline-block;
   background-color: #713837;
