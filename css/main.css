@@ -35,3 +35,8 @@ a:hover {
   display: inline-block;
   background-color: #f33;
 }
+
+section {
+  display: block;
+  background-color: #dbd6cf;
+}
