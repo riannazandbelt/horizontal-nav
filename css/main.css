@@ -8,10 +8,6 @@ html {
   box-sizing: inherit;
 }
 
-h1 {
-  font-color: #fff
-}
-
 .heading {
   background-color: #79756f;
   border: solid;
@@ -22,4 +18,8 @@ h1 {
 
 .nav li {
   list-style-type: none;
+}
+
+h1 {
+  font-color: #fff;
 }
