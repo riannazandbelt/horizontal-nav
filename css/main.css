@@ -20,8 +20,10 @@ html {
   list-style-type: none;
   display: inline-block;
   background-color: #713837;
+  text-align: center;
 }
 
 h1 {
   font-color: #fff;
+  text-align: center;
 }
