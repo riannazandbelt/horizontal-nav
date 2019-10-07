@@ -17,11 +17,15 @@ html {
   }
 }
 
-.nav a {
-  list-style-type: none;
+nav a {
   display: inline-block;
   background-color: #713837;
   text-align: center;
+  text-decoration: none;
+}
+
+ul li {
+  list-style-type: none;
 }
 
 h1 {
