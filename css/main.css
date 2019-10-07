@@ -13,6 +13,7 @@ html {
   border: solid;
   border-color: #595652;
   display: block;
+  color: #fff;
   }
 }
 
@@ -24,6 +25,5 @@ html {
 }
 
 h1 {
-  font-color: #fff;
   text-align: center;
 }
