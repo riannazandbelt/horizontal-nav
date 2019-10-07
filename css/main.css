@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: 'Bevan', cursive;
+  font-family: 'Bevan', sans-serif;
   line-height: 1.5;
 }
 
@@ -9,7 +9,7 @@ html {
 }
 
 h1 {
-
+  color: #fff
 }
 
 .nav {
