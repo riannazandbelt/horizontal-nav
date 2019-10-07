@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Bevan", sans-serif;
+  font-family: sans-serif;
   line-height: 1.5;
 }
 
@@ -40,7 +40,7 @@ nav ul {
 
 h1 {
   text-align: center;
-  font-family: sans-serif;
+  font-family: "Bevan", sans-serif;
 }
 
 a:hover {
