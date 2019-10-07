@@ -21,10 +21,18 @@ nav a {
   background-color: #713837;
   text-align: center;
   text-decoration: none;
+  padding: .6em .5em .75em;
+  margin: .3em;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fff;
+  font-style: normal;
+  font: sans-serif;
 }
 
 nav ul {
   list-style-type: none;
+  display: flex;
 }
 
 h1 {
@@ -39,4 +47,8 @@ a:hover {
 section {
   display: block;
   background-color: #dbd6cf;
+}
+
+body {
+  margin: 0;
 }
