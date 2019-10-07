@@ -48,11 +48,11 @@ a:hover {
   background-color: #f33;
 }
 
-section {
-  display: block;
-  background-color: #dbd6cf;
-}
-
 body {
   margin: 0;
+}
+
+footer {
+  display: block;
+  background-color: #dbd6cf
 }
