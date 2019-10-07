@@ -36,11 +36,13 @@ nav ul {
   align-content: center;
   align-items: center;
   padding: 0;
+  margin-top: 0;
 }
 
 h1 {
   text-align: center;
   font-family: "Bevan", sans-serif;
+  margin-bottom: 0;
 }
 
 a:hover {
@@ -52,7 +54,7 @@ body {
   margin: 0;
 }
 
-footer {
+span {
   display: block;
   background-color: #dbd6cf;
 }
