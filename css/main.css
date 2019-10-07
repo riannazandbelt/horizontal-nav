@@ -27,3 +27,8 @@ html {
 h1 {
   text-align: center;
 }
+
+a:hover {
+  display: inline-block;
+  background-color: #f33;
+}
