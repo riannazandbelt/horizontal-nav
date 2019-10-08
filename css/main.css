@@ -23,11 +23,11 @@ nav a {
   text-align: center;
   text-decoration: none;
   padding: .6em .5em .75em;
-  margin: .3em;
+  margin: .2em;
   border-radius: .3em;
   color: #fff;
   font-family: sans-serif;
-  max-width: 35em;
+  max-width: 30em;
 }
 
 nav ul {
@@ -46,6 +46,7 @@ h1 {
   text-align: center;
   font-family: Bevan, cursive;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
 a:hover {
