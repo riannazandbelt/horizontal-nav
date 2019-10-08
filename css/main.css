@@ -18,7 +18,7 @@ html {
 }
 
 nav a {
-  display: inline-block;
+  display: inline-flex;
   background-color: #713837;
   text-align: center;
   text-decoration: none;
