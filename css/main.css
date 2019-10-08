@@ -32,7 +32,7 @@ nav a {
 
 nav ul {
   list-style-type: none;
-  display: inline-flex;
+  display: flex;
   flex-direction: row;
   justify-content: center;
   align-content: center;
@@ -50,6 +50,7 @@ h1 {
 a:hover {
   display: inline-block;
   background-color: #f33;
+  display: inline-flex;
 }
 
 body {
