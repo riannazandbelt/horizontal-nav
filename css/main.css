@@ -37,7 +37,7 @@ nav ul {
   justify-content: center;
   align-content: center;
   align-items: center;
-  padding: 1;
+  padding: .5rem;
   margin-top: 0;
   flex-wrap: wrap;
 }
